@@ -23,9 +23,9 @@ Des weiteren bin ich Software-Entwickler. Weitere Informationen zu meiner Person
 
 ## Themen
 
-Der Übersichtlichkeit halber werden ich, für die einzelnen Themen, separate Markdown-Dokumente erstellen.
+Der Übersichtlichkeit halber werde ich, für die einzelnen Themen, separate Markdown-Dokumente erstellen.
 
-Feedback kann in Form von Github _Issues_ erstellt werden.
+Feedback kann in Form von Github _Issues_ abgegeben werden.
 
 Wen Rechtschreib- oder Satzzeichen-Fehler stören, sollte einen _Pull Request_ erstellen.
 
