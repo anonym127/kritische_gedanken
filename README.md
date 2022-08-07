@@ -11,7 +11,7 @@ Im diesem Fall gehe ich mit der Anonymität schlicht unnötigen und anstrengende
 ## Wer bin ich?
 
 Ich bin Deutscher mit Migrationshintergrund und stehe zur freiheitlich-demokratischen Grundordnung der Bundesrepublik Deutschland, sowie dem Grundgesetz.
-Des weiteren bin ich Software-Entwickler. Weitere Informationen zu meiner Person sollten irrelevant sein!.
+Des weiteren bin ich Software-Entwickler. Weitere Informationen zu meiner Person sollten irrelevant sein!
 
 ## Technik zur Wahrung der Anonymität
 
