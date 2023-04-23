@@ -23,7 +23,10 @@ Des weiteren bin ich Software-Entwickler. Weitere Informationen zu meiner Person
 
 ## Themen
 
-Der Übersichtlichkeit halber werde ich, für die einzelnen Themen, separate Markdown-Dokumente erstellen.
+Der Übersichtlichkeit halber werde ich, für die einzelnen Themen, separate Markdown-Dokumente erstellen:
+
+* voller Pfad [https://github.com/anonym127/kritische_gedanken/tree/main/themen](https://github.com/anonym127/kritische_gedanken/tree/main/themen)
+* relativer Pfad [themen](themen)
 
 Feedback kann in Form von Github _Issues_ abgegeben werden.
 
