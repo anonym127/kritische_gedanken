@@ -57,6 +57,7 @@
   - direkte Einwanderung in Sozialsysteme verhindern: z.B. keine Sozialrechte in ersten 6 Monaten. Müssen sich erst selbst versorgen/arbeiten
   - Limitierung durch Aufnahmekapazitäten in Kommunen/Ländern
   - Kapazitätsgrenzen: Wohnungen (keine Asylheime!, die keine Integration ermöglichen), Schulen, Ärzte, Sprachangebote, ..
+* Veröffentlichung von sauber aufgeschlüsselter Kriminalstatistik inklusive Herkunft - als Diskussionsgrundlage. Kein Herumdrucksen oder Zurückhalten!
 
 
 ## Demokratie
@@ -100,6 +101,8 @@
   - warum wurde z.B. keine entsprechende Beteiligung an Biontech ausgehandelt?, obwohl Investitionen und riesige Abnahmemengen vereinbart wurden
 * Bargeld erhalten!
 * SWIFT-Abkommen zur Weitergabe von Bank/Transaktionsdaten an die USA aufkündigen!
+* "Arbeit muss sich lohnen": ein Arbeiter oder Angestellter muss spürbar, z.B. mindestens 30%, mehr in der Tasche haben, als jemand über Sozialhilfen
+  - immer mehr Menschen gehen deswegen schon jetzt nicht mehr arbeiten!
 
 
 ## Verteidigung
