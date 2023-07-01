@@ -153,3 +153,19 @@
   - einmal alle 15 Jahre ist wohl mehr als ausreichend
   - keine unumkehrbare Medikamente/Eingriffe unter einer Altersgrenze von 18 - eher noch 21
 * keine Strafen für versehentlich falsche Anreden
+
+
+## Klima-Kleber
+
+* auch bekannt als **Letzte Generation**
+* vorneweg: Klimaschutz, das Ziel dieser Gruppe, ist respektabel / ehrenvoll
+* es rechtfertigt aber **keine** Straftaten, wie z.B. Nötigung
+* diese Straftaten sind natürlich kriminell und offensichtlich abgesprochen
+* somit erfüllt diese Gruppe sicherlich den Straftatbestand einer **kriminellen Vereinigung**!
+* auch anonyme Geldspender erfüllen m.E. den Straftatbestand der **Unterstützung einer kriminellen Vereinigung**
+* mit dem Erpressungsversuch der Politik, zur Durchsetzung ihrer Forderungen, erfüllt diese Gruppe m.E. auch den Straftatbestand des **Terrorismus**! Welchen Unterschied gibt es zu Flugzeugentführern, die ihre Kameraden freipressen wollen?
+* ja, das ist eine harte Analyse meinerseits
+* als Vergleich bzw. Analogie: vor einigen Jahren gab es das Gerichtsurteil, ob ein besetzter Flieger abgeschossen werden darf, wenn es droht in einer Stadt abzustürzen: Nein. Tötung / Abwägung von Menschenleben ist ein Verbrechen - unabhängig von den ideellen/guten Zielen zur Rettung von Menschenleben
+  - wenn ein Kampfpilot also selbständig doch die Entscheidung des Abschusses trifft, so muss dieser vor Gericht und - unter Berücksichtigung mildernder Umstände - bestraft werden
+  - diese Analogie ziehe ich auch für Klima-Kleber
+  - die Straftaten müssen angeklagt und untersucht werden bis ein Gerichtsurteil vorliegt
