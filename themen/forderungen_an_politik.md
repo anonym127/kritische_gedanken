@@ -45,6 +45,14 @@
 * aktuelle Politik mit immer mehr Gas- und Kohlekraftwerken widerspricht dem Narrativ der CO2-Klimapolitik!
 
 
+## CO2 / Klimaerwärmung
+
+* keine teuren Maßnahmen/Beschlüsse ohne **sicheren** Nachweis, dass der CO2-Ausstoss durch Menschen einen relevanten Einfluss auf das Klima hat - hier gibt es Kritiker wie z.B. Markus Fiedler
+* Untersuchung und Zahlen zum Einfluss des geplanten __Heizhammers__ aka Gebäude-Energie-Gesetzes **bevor** es beschlossen wird
+  - wenn man die Bevölkerung vor Fehlentscheidungen schützen will, dann reicht die Veröffentlichung von Kostenschätzungen/vorhersagen bzgl. Ölpreisen, Gaspreisen und CO2-Steuern. Diese Zahlen müssen auf den Tisch. Rechnen kann jeder selbst.
+* Deutschland sollte innerhalb der EU kein Vorreiter bzgl. der Reduzierung des CO2-Ausstosses sein. Effektiv stellt dies eine Wettbewerbs-Verzerrung dar.
+
+
 ## Migrations-, Asyl- und Flüchtlingspolitik
 
 * Bevorzugung von Arbeits-Migration: benötigte Fachkräfte brauchen auch wettbewerbsfähige Arbeitsplätze, Steuern- und Sozialabgaben
@@ -72,6 +80,9 @@
   - einfache ja/nein Fragen für fertig ausgearbeitete Gesetze bzw. deren Vorlagen mittels direkter Demokratie sind OK
 * Fraktionszwang aufheben!
 * weniger Partei-Wahllisten mit weithin "Unbekannten". Fokus auf Direkt-Mandate
+* Einhaltung von demokratischen Prinzipien und Respekt vor Entscheidungen des Wählers (Landratswahl in Sonneberg)
+  - keine nachträglichen Gesinnungsprüfungen - nach einer demokratischen Wahl
+  - die Beschimpfung der Wähler mit "20% brauner Bodensatz" durch den Verfassungsschutz ist untragbar - und sicherlich nicht parteipolitisch neutral
 
 
 ## Medien
@@ -109,10 +120,12 @@
 
 * Wehrfähigkeit der Bundeswehr herstellen
 * strikte Trennung zwischen (Landes)Verteidigung und externen Missionen: unabhängige Budgets und ggf auch Ministerien
-* Misssionen im Ausland zusammen  mit Hilfskräften (Rotes Kreuz, THW, ..) und zu guter Letzt auch Soldaten
-* aber: Misssionen im Ausland deutlich reduzieren!
+* Missionen im Ausland zusammen  mit Hilfskräften (Rotes Kreuz, THW, ..) und zu guter Letzt auch Soldaten
+* aber: Missionen im Ausland deutlich reduzieren!
 * "unsere Freiheit wird am Hindukusch verteidigt" ist schlicht falsch! Verteidigt wird an der Landesgrenze!
+  - auch die Stationierung von Bundeswehr Soldaten in Litauen erinnert an den Hindukusch. Praktisch könnte ein automatischer Kriegseintritt entstehen, den es zu verhindern gilt
 * Aufarbeitung von Irak, Libyen, Syrien, Afghanistan, .. ehrliche Ergebnis-Berichte
+  - was haben die Auslandseinsätze faktisch gebracht?
 * Waffenlieferungen auf den Prüfstand
 
 
